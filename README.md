@@ -1,8 +1,12 @@
-# Basic-App-Structure
+# Overview
 
 A template of Express.js Web Server.
 
-## Pre requisites
+## Technologies Used
+Express.js: A minimal and flexible Node.js web application framework.
+Node.js: Javascript run time environment.
+
+## Getting Started
 
 - How to start
 
@@ -18,33 +22,12 @@ npm install or npm i
 npm run dev
 ```
 
-<!-- 
-```
+<!-- ```
 npm run server (hot reloading)
-```
+``` -->
 
-## Tail Logs
+## Contribution
 
-```
-npm run logs
-```
+- Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
 
-## Stop app
 
-```
-npm run stop
-```
-
-## Lint
-
-```
-> npm run lint
-> npm run prettier
-```
-
-## Config
-
-- For development, define required variables in development.json
-- For production, define required variables as environment variable in remote setup.
-
-## Create Migration -->
